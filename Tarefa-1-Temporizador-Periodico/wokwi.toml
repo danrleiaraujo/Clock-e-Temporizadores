@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Tarefa-1-Temporizador-Periodico.uf2'
+elf = 'build/Tarefa-1-Temporizador-Periodico.uf2'
